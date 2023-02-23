@@ -1,4 +1,0 @@
-Hello
-Welcome to OS Lab
-Begin with exercise 1
-Goodbye
